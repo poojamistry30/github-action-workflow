@@ -9,9 +9,9 @@
         },
         "authentication": {
           "type": "ServicePrincipal",
-          "tenantId": "64f42feb-ecb8-4fdf-8c86-061329888bb7",
-          "clientId": "968a9447-31a5-401f-b409-2259790dd85c",
-          "clientSecret": "TqH8Q~K1PA5Jk7pCxWHneG8W3ZSu~DlVWJhd6avR"
+          "tenantId": "d4299a95-9515-4322-bee7-f48ae88f5987",
+          "clientId": "22d68dc0-9145-4f32-bbfc-4b679c47df5d",
+          "clientSecret": "t8a8Q~wmnqefk5XpXLOFbag~5qvQkBZ.w~k--dcj"
         },
         "options": {
           "import": {
@@ -20,7 +20,7 @@
         },
         "environments": {
           "PROD": {
-            "workspace": "pbi tools test"
+            "workspace": "Team Mars"
           }
         }
       }
